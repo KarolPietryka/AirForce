@@ -1,0 +1,19 @@
+﻿  AirForce.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Animations.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Animations.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Collision.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Collision.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Engine.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Engine.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Formation.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Plane.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Libretto.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Plane.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Missiles.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Missiles.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Plane.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\Plane.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  RandGenerator.cpp
+  VisualEffect.cpp
+c:\users\pc\desktop\programy\sfml\project2\airforce\airforce\VisualEffect.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
